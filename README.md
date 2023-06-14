@@ -1,5 +1,7 @@
 # Pong Game
 <img width="698" alt="PONG" src="https://github.com/FaraxMalik/PONG/assets/133353942/fec9079c-ce06-49e5-a5f6-877e6d3a3780">
+
+
 ## Description
 Pong Game is a classic arcade game developed in C++ using the SFML library. It offers both multiplayer and singleplayer modes, providing an immersive gaming experience. Customize the game with background change options, follow clear instructions, and enjoy exciting sound effects Moreover you can experience an increase in ball speed and enlarging pad size here too. Take control with intuitive controls (WASD for single player, arrow buttons for player 2) and pause the game whenever you need. Relive the magic of Pong and challenge your friends or test your skills against the computer!
 
