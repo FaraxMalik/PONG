@@ -17,6 +17,8 @@ Pong Game is a classic arcade game developed in C++ using the SFML library. It o
 - Press the "P" button to pause the game.
 - Change the background by choosing change background option.
 <img width="700" alt="change bg" src="https://github.com/FaraxMalik/PONG/assets/133353942/473a65d0-0afb-42e4-8a53-0957cb379c18">
+
+
 - Enjoy the exciting sound effects during gameplay.
 ## Features
 - Single Player and Multiplayer game options
