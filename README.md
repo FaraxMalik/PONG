@@ -34,6 +34,6 @@ Use W A S D keys for single player and use arrow keys for multiplayer keys
 Press P in between the game to pause the game
 
 ## Contact
-If you have any questions or suggestions regarding the Pong Game project, feel free to reach out me at "Farazmalinu@gmail.com". I appreciate your feedback!
+If you have any questions or suggestions regarding the Pong Game project, feel free to reach out me at "Farazmaliknu@gmail.com". I appreciate your feedback!
 
 
